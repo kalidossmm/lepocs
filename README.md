@@ -1,2 +1,2 @@
 # lepocs
-Automatically Generate Test Cases for Nodejs Script
+Learn Nodejs Faster
